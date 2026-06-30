@@ -9,6 +9,15 @@
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nishasingh-cmd&style=for-the-badge&color=blue)
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=nishasingh-cmd&style=for-the-badge&color=0e75b6)
+![](https://img.shields.io/github/followers/nishasingh-cmd?style=for-the-badge&logo=github)
+![](https://img.shields.io/github/stars/nishasingh-cmd?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/Open%20to-Collaborate-success?style=for-the-badge)
+![](https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=for-the-badge)
+
+</p>
 
 </div>
 
@@ -17,8 +26,6 @@
 # 👩‍💻 About Me
 
 🎓 Computer Science Engineering Student at **TCET**
-
-💻 Passionate about building scalable and real-world web applications.
 
 🌱 Currently learning **Advanced MERN Stack & AI Integration**
 
@@ -75,13 +82,9 @@ A pixel-perfect Spotify landing page clone built using HTML and CSS.
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Activity
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nishasingh-cmd&theme=tokyonight&row=1&column=6"/>
-
-</p>
+[![Nisha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishasingh-cmd&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
