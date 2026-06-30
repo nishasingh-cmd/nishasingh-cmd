@@ -8,12 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;MERN+Stack+Developer;Building+Real-World+Projects;Always+Learning+New+Things" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nishasingh-cmd&style=for-the-badge&color=blue)
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=nishasingh-cmd&style=for-the-badge&color=0e75b6)
-![](https://img.shields.io/github/followers/nishasingh-cmd?style=for-the-badge&logo=github)
-![](https://img.shields.io/github/stars/nishasingh-cmd?style=for-the-badge&logo=github)
+![](https://komarev.com/ghpvc/?username=nishasingh-cmd&style=for-the-badge&color=blue)
 ![](https://img.shields.io/badge/Open%20to-Collaborate-success?style=for-the-badge)
 ![](https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=for-the-badge)
 
