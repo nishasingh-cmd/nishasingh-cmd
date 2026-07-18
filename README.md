@@ -47,7 +47,7 @@ A complete hotel booking platform built using MERN Stack featuring authenticatio
 
 ---
 
-### 💄 Dr-Rashel Clone
+### 💄 Dr-Rashel 
 An e-commerce inspired website for skincare products with clean UI and responsive design.
 
 ---
